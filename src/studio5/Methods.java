@@ -106,8 +106,8 @@ public class Methods {
 	// TODO: Create a JavaDoc comment for the arrayMean method.
 	/**
 	 * 
-	 * @param values
-	 * @return
+	 * @param values are one-dimensional integer arrays
+	 * @return the mean of the arrays in double
 	 */
 	public static double arrayMean(int[] values) {
 		int sum = arraySum(values);
